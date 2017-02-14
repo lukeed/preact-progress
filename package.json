@@ -1,0 +1,16 @@
+{
+  "name": "preact-progress",
+  "version": "0.0.0",
+  "module": "src/index.js",
+  "main": "dist/preact-progress.js",
+  "repository": "lukeed/preact-progress",
+  "license": "MIT",
+  "author": {
+    "name": "Luke Edwards",
+    "email": "luke.edwards05@gmail.com",
+    "url": "https://lukeed.com"
+  },
+  "scripts": {
+    "build": "rollup"
+  }
+}
