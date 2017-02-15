@@ -1,6 +1,6 @@
 {
   "name": "preact-progress",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "module": "src/index.js",
   "main": "dist/preact-progress.js",
   "repository": "lukeed/preact-progress",
