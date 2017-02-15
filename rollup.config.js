@@ -3,7 +3,7 @@ import buble from 'rollup-plugin-buble';
 export default {
 	entry: 'src/index.js',
 	dest: 'dist/preact-progress.js',
-	moduleName: 'PreactProgress',
+	moduleName: 'Progress',
 	external: ['preact'],
 	format: 'umd',
 	plugins: [

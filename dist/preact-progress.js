@@ -1,7 +1,7 @@
 (function (global, factory) {
 	typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory(require('preact')) :
 	typeof define === 'function' && define.amd ? define(['preact'], factory) :
-	(global.PreactProgress = factory(global.preact));
+	(global.Progress = factory(global.preact));
 }(this, (function (preact) { 'use strict';
 
 var STYLE_OUTER = 'width:100%;z-index:9999;top:0';
