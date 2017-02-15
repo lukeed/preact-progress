@@ -4,6 +4,7 @@
   "module": "src/index.js",
   "main": "dist/preact-progress.js",
   "repository": "lukeed/preact-progress",
+  "description": "Simple and lightweight (~590 bytes gzip) progress bar component for Preact",
   "license": "MIT",
   "files": [
     "src",
