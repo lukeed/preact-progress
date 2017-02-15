@@ -2,7 +2,7 @@
 
 > Simple and lightweight (~590 bytes gzip) progress bar component; for :atom_symbol: [Preact](https://github.com/developit/preact)
 
-#### [Demo](https://jsfiddle.net/lukeed/vtkdyjva/)
+#### [Demo](https://jsfiddle.net/lukeed/kws8r5v4/)
 
 ## Install
 
