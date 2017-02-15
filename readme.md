@@ -44,7 +44,7 @@ The current progress; between 0 and 100. Mapped to a `style:width` percentage.
 
 #### onStart
 Type: `Function`<br>
-The callback function when progress bar has reached 100%. Receives the current `Progress` component as its only argument.
+The callback function when progress bar mounts. Receives the current `Progress` component as its first argument & the current `value` as its second argument.
 
 #### onChange
 Type: `Function`<br>
